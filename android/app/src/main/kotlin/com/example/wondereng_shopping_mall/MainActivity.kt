@@ -1,0 +1,6 @@
+package com.example.wondereng_shopping_mall
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

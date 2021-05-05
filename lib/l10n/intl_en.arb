@@ -1,0 +1,12 @@
+{
+    "validationIsRequired": "{fieldName} can not be empty",
+    "validationIsNumber": "{fieldName} is not a valid number",
+    "validationIsEmail" : "{fieldName} is not a valid email",
+    "validationPasswordNotEqualsToConfirmPassword" : "Password is not matched with confirm password.",
+    "validationMinLengthRequired": "{fieldName} length should be greater than {requiredMinLength}",
+    "validationMaxLengthRequired": "{fieldName} length should be less than {requiredMaxLength}",
+    "validationEmailNotValid": "Email is not valid",
+    "validationPhoneNumberNotValid": "Phone Number is not valid",
+
+    "shopping_malls_page_title": "Shopping Malls Near You"
+  }
